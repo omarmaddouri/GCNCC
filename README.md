@@ -19,7 +19,7 @@ Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations em
 ![alt text](workflow.png)
 
 ## Usage
-***Note: The validation and evaluation pipelines under the bash/ folder contain files ordered by number in the beginning of the file names for sequential execution.***
+***Note: The validation and evaluation pipelines under the bash/ folder contain files ordered by prefix numbers in the file names for sequential execution.***
 1) Download the GitHub repository locally.
 2) Create a new folder **data/** with all required sub-hierarchies as indicated in the next steps.
 3) Download the PPI network "9606.protein.links.v11.0.txt" or a newer version for homo sapiens from STRING (https://string-db.org/cgi/download.pl) and place it under folder **data/reference/ppi_network**
