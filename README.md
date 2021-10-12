@@ -1,4 +1,4 @@
-# Graph Convolutional Network for Network Clustering and Disease Classification
+# Graph Convolutional Network for Clustering and Disease Classification
 
 Official implementation of **G**raph **C**onvolutional **N**etwork for **C**lustering and **C**lassification (**GCNCC**).
 
