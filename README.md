@@ -27,7 +27,7 @@ Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations em
 5) For hyperparameter tuning and validation experiments, consider the pipeline under **bash/validation**
 6) For evaluation experiments, consider the pipeline under **bash/process**
 
-**Note: The output results are saved under data/output **
+***Note: The output results are saved under data/output***
 
 ## Cite
 ```
