@@ -1,0 +1,12 @@
+tensorflow-gpu==2.2.0
+Keras==2.3.1
+pandas==0.25.3
+numpy==1.18.5
+scipy==1.4.1
+networkx==2.4
+scikit-learn==0.23.1
+matplotlib==3.2.1
+mygene==3.1.0
+markov-clustering==0.0.6.dev0
+mlxtend==0.18.0
+xlrd==1.2.0
