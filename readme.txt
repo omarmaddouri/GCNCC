@@ -7,7 +7,7 @@ should be executed on login nodes through bash scripts as the HPRC policy disabl
 2) source 1_generate_network_files.sh to generate the common network files
 3) source 2_gcn_tuning_split_files.sh to prepare the required data files before running the gcn embedding
 4) Submit the embedding jobs by running source 3_gcn_tuning_submit_jobs.sh
-5) Identify the best GCN architecture based on the validation loss for all the data sets (majority voting)
+5) Identify the best GCN architecture based on the test loss for all the data sets (majority voting)
 6) Tune the neighborhood threshold for geometric-AP by submitting jobs (source 4_clustering_tuning_submit_jobs.sh)
 7) source 5_p_val_tuning_split_files.sh to generate datasets for different p-values for the best GCN architecture
 8) Submit the embedding jobs by running source 6_p_val_tuning_embed_submit_jobs.sh
