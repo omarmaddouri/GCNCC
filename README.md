@@ -4,7 +4,7 @@ Official implementation of **G**raph **C**onvolutional **N**etwork for **C**lust
 
 Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations embed network information for robust disease marker identification]
 
-**NOTE: The *scripts* folder is intended to reproduce the experiments from the paper.**
+**NOTE: The *bash* folder is intended to reproduce the validation and evaluation experiments from the paper.**
 
 ## Installation
 
