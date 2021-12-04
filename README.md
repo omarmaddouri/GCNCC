@@ -2,7 +2,7 @@
 
 Official implementation of **G**raph **C**onvolutional **N**etwork for **C**lustering and **C**lassification (**GCNCC**).
 
-Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations embed network information for robust disease marker identification]
+Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations embed network information for robust disease marker identification], Bioinformatics, 2021.
 
 **NOTE: The *bash/* folder is intended to reproduce the validation and evaluation experiments from the paper.**
 
@@ -31,5 +31,5 @@ Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations em
 
 ## Cite
 ```
-Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, "Deep graph representations embed network information for robust disease marker identification", Bioinformatics, 2021;, btab772, https://doi.org/10.1093/bioinformatics/btab772
+Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, "Deep graph representations embed network information for robust disease marker identification", Bioinformatics, 2021, https://doi.org/10.1093/bioinformatics/btab772
 ```
