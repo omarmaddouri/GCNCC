@@ -31,5 +31,5 @@ Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, [Deep graph representations em
 
 ## Cite
 ```
-Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, "Deep graph representations embed network information for robust disease marker identification", Bioinformatics, 2021, https://doi.org/10.1093/bioinformatics/btab772
+Omar Maddouri, Xiaoning Qian, and Byung-Jun Yoon, "Deep graph representations embed network information for robust disease marker identification", Bioinformatics, Volume 38, Issue 4, 15 February 2022, Pages 1075–1086, https://doi.org/10.1093/bioinformatics/btab772
 ```
